@@ -1,4 +1,4 @@
-Simple QrCode
+JM's version of Simple QrCode
 ========================
 
 ![Unit Tests](https://github.com/SimpleSoftwareIO/simple-qrcode/workflows/Unit%20Tests/badge.svg)
